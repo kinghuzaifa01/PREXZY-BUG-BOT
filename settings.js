@@ -2,38 +2,38 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide👑"
-global.ytname = "YT: Prexzyvilla"
+global.ownernomer = "923172290399"
+global.ownername = "𓆩𓏲ིྀłł𝐮፝֟͜͡͡ȥɑ͢𝖎ƒɑ͢𓆪  𓆩⟵к͡𝖎ɳｇ⟶𓆪👑"
+global.ytname = "YT: huzaifa._.king02"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
-global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '923172290399'  //creator number
+global.ownername = '𓆩𓏲ིྀłł𝐮፝֟͜͡͡ȥɑ͢𝖎ƒɑ͢𓆪  𓆩⟵к͡𝖎ɳｇ⟶𓆪👑' //owner name
+global.botname = '𓆩𓏲ིྀłł𝐮፝֟͜͡͡ȥɑ͢𝖎ƒɑ͢𓆪ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = '𓆩𓏲ིྀłł𝐮፝֟͜͡͡ȥɑ͢𝖎ƒɑ͢𓆪👑\n\nContact: +923172290399'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "PREXZYVILLA."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://chat.whatsapp.com/LvRoctC7BlpABLLFQl1Cdy'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
